@@ -6,5 +6,3 @@ def health_check() -> dict:
     return {"status": "ok", "service": "xiaoheihuhl2"}
 
 
-if __name__ == "__&#8203;main__":
-    print(health_check())
